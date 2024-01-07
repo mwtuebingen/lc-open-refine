@@ -30,7 +30,7 @@ There are many ways to discuss and contribute to Library Carpentry lessons. Visi
 
 ## Code of Conduct
 
-All participants should agree to abide by The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+All participants should agree to abide by The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 
 ## Authors
 
